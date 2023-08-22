@@ -1,0 +1,9 @@
+.custom-thead th {
+    background-color: black;
+    color: white; /* Set text color for contrast */
+  }
+
+  .card{
+    width: 18rem;
+    height: 20rem;
+  }
